@@ -1,0 +1,52 @@
+body {
+    background-image: url("background-Image.jpg");
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+fieldset {
+    padding: 10px;
+    width: 70%;
+    margin: 0 auto;
+}
+
+hr {
+    width: 500px;
+    margin: 15px 0;
+}
+
+label {
+    color: white;
+}
+
+.ch {
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+p {
+    font-family: "open sans", sans-serif;
+    padding: 20px;
+    color: white;
+    margin: 0;
+    margin: 5px 0;
+    color: red;
+    font-size: 16px;
+}
+
+select {
+    width: 150px;
+    padding: 5px 10px;
+    border-width: 1px;
+    border-style: ridge;
+    border-color: red blue green yellow;
+    outline: none;
+    border: none;
+    margin: 0 auto;
+}

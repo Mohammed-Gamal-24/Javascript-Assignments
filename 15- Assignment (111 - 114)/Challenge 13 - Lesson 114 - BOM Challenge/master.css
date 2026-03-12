@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* =========== Global Variables =========== */
+:root {
+    --main-color: #e7e7e7;
+}
+
+/* .container {
+    display: block;
+    margin: auto;
+} */
+
+form {
+    display: flex;
+    justify-content: space-between;
+    background-color: var(--main-color);
+    padding: 20px;
+    width: 400px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+input[type="text"] {
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    flex-basis: 68%;
+    outline: none;
+}
+
+.add {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+    flex-basis: 25%;
+    font-weight: bold;
+    cursor: pointer;
+}   
+
+.tasks {
+    background-color: var(--main-color);
+    padding: 20px;
+    width: 400px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px 
+}

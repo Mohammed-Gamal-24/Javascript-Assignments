@@ -1,0 +1,12 @@
+{
+  "name": "Mohammed",
+  "age": 28,
+  "married": false,
+  "numberOfChildren": null,
+  "skills": ["HTML", "CSS", "Javascript"],
+  "work": {
+    "company": "Tech Solutions",
+    "position": "Frontend Developer",
+    "yearsExperience": 5
+  }
+}

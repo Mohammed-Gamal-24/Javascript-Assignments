@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "author": "Douglas Crockford",
+    "category": "JavaScript",
+    "title": "JavaScript: The Good Parts",
+    "description": "Focuses on the powerful and elegant parts of JavaScript while avoiding the bad features."
+  },
+  {
+    "id": 2,
+    "author": "Marijn Haverbeke",
+    "category": "JavaScript",
+    "title": "Eloquent JavaScript",
+    "description": "A modern introduction to JavaScript covering fundamentals, functional programming, and the browser."
+  },
+  {
+    "id": 3,
+    "author": "Kyle Simpson",
+    "category": "JavaScript",
+    "title": "You Don't Know JS Yet",
+    "description": "Deep exploration of JavaScript core mechanisms like scope, closures, and asynchronous behavior."
+  },
+  {
+    "id": 4,
+    "author": "Lea Verou",
+    "category": "CSS",
+    "title": "CSS Secrets",
+    "description": "Practical techniques and tips to solve real-world CSS layout and design problems."
+  },
+  {
+    "id": 5,
+    "author": "Steve Krug",
+    "category": "UX",
+    "title": "Don't Make Me Think",
+    "description": "A guide to intuitive navigation and usability for better user experience in web design."
+  }
+]
